@@ -4,7 +4,7 @@
 let BattleTypeChart = {
 	"Bug": {
 		damageTaken: {
-			sound: 3
+			sound: 3,
 			"Bug": 0,
 			"Dark": 0,
 			"Dragon": 0,
